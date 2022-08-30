@@ -1,2 +1,1 @@
-# Web-Tech-Project
-To-Do list app
+# Webtech_Project
